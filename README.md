@@ -5,4 +5,4 @@ Instructions on how to play can be found within the game itself in the "How To P
 
 NOTE: Must use mouse to interact with the menus/buttons. This element of the game DOESN'T have controller support.
 
-Github link: 
+Github link: https://github.com/harrygood619/ProgrammingTest/
